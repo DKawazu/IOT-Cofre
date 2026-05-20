@@ -122,8 +122,6 @@ Utilizado para:
 ---
 
 # Autor
-Dante Ryuichi Kawazu — R.A: 22.125.083-0
-Leonardo Pera Chacon Guadagni — R.A: 22.125.081-4
-Felipe Franco Falcon — R.A: 22.125.073-1
-
-
+- Dante Ryuichi Kawazu — R.A: 22.125.083-0
+- Leonardo Pera Chacon Guadagni — R.A: 22.125.081-4
+- Felipe Franco Falcon — R.A: 22.125.073-1
