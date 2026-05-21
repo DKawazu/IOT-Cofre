@@ -121,6 +121,9 @@ Utilizado para:
 
 ---
 
+<img width="3000" height="4000" alt="foto do circuito" src="https://github.com/user-attachments/assets/feec1586-5532-4426-98b3-2f56e0b8ab2e" />
+
+
 # Autor
 - Dante Ryuichi Kawazu — R.A: 22.125.083-0
 - Leonardo Pera Chacon Guadagni — R.A: 22.125.081-4
